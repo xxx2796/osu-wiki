@@ -1,46 +1,45 @@
 # osu!mania 作图指南
 
-## Prologue
+## 序言
 
-### What is osu!mania?
+### osu!mania 是什么?
 
-*Main page: [osu!mania](/wiki/Game_mode/osu!mania)*
+*主页面: [osu!mania](/wiki/Game_mode/osu!mania)*
 
-osu!mania is one of the four game modes. osu!mania falls under the genre **Vertical Scrolling Rhythm Game** (VSRG). As the name already suggests, that the musical notes are falling down or rising up in a vertical manner. There are many rather similar games to osu!mania such as "Stepmania", "O2Jam" or "Beatmania IIDX".
+osu!mania 是四个游戏模式之一. osu!mania 属于 **垂直滚动音乐游戏** (VSRG). 顾名思义, 音符以垂直方式下降或上升. 有许多与 osu！mania 非常相似的游戏，例如“Stepmania”、“O2Jam”或“Beatmania IIDX”。
 
-One advantage of osu!mania is the customisable number of playable columns and its simple to use beatmap editor.
+osu！mania 的一个优点是可自定义的轨道数量及其简单易用的谱面编辑器。
 
-### What is the beatmap editor?
+### 什么是谱面编辑器?
 
-As stated, the editor allows a customisable amount of columns. For simplicity, this guide will revolve around 4-key-mapping. Below you can see a screenshot that details the editor compartments.
+如前所述，编辑器允许自定义轨道数量。为简单起见，本指南将围绕 4key 展开。您可以在下面看到详细说明编辑器各个部分的屏幕截图。
+#### osu!mania 编辑器
 
-#### osu!mania editor
+**1. 作图区**: 这是你摆放物件的地方.
 
-**1. Mapping Area**: This is where you place your objects.
+**2. 密度曲线图**: 这是地图中各个部分的密度。粉红色条表示密度太高而无法显示。
 
-**2. Density Graph**: This is the density of individual parts in the map. *Pink* bars indicates that the density is too high to be shown.
+**3 & 4. 音符和长音符**: 这些选项可以通过单击来切换。 **音符** 通过单击放置, **长条音符** *(也被称为‘长条音符’)* 可以通过单击和拖动来创建。
 
-**3 & 4. Notes and Hold**: These options can be toggled by clicking. **Notes** are placed by clicking, **Hold Notes** *(also known as Long Notes)* can be created by clicking and dragging.
-
-*Shortcut:* `2, 3`
+*快捷键:* `2, 3`
 
 **5. Hitsounds**: Objects can be assigned with sounds during play. More info on hitsounds later in the guide.
 
-*Shortcut:* `W, E, R`
+*快捷键:* `W, E, R`
 
 **6. Lock Notes**: If Lock Notes is activated you can't move any notes, which is useful when hitsounding. Without this activated, you may accidentally move notes as you hitsound them.
 
-*Shortcut:* `L`
+*快捷键:* `L`
 
 **7. Beat Snap Divisor**: Using the slider, you can select the beat snap you wish to map in. The slider goes from 1/1 to 1/16, most mappers commonly use 1/4.
 
 Specifics on what snaps should be used for ranking are detailed in the [osu!mania ranking criteria](/wiki/Ranking_criteria/osu!mania).
 
-*Shortcut:* `Ctrl + MouseScrollWheel`
+*快捷键:* `Ctrl + MouseScrollWheel`
 
 **8. Sample Set & Additions**: Sample Sets and Additions allow you to add even more hitsounds than shown in point 5. As an example, you can layer a drum-finish sound over the normal-finish. Using this, you can give your song a even larger variety of hitsounds!
 
-*Shortcut:* `Ctrl + (W, E, R), Shift + (W, E, R)`
+*快捷键:* `Ctrl + (W, E, R), Shift + (W, E, R)`
 
 ![Mania Editor](img/Mania_Editor.jpg "Mania Editor")
 
